@@ -1,10 +1,10 @@
-# ICS2O Unit #X-YY
+# ICSD20, Phaser 3 -> Battle on Namek
 
-[![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Mr Coxall's Super Linter](https://github.com/ICD20-Digital-Tech-Innovations-DaronM/RST-Game-Development/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICD20-Digital-Tech-Innovations-DaronM/RST-Game-Development/actions)
 
-[![Deploy Pages](https://github.com/<OWNER>/<REPOSITORY>/workflows/Deploy%20Pages/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Deploy Pages](https://github.com/ICD20-Digital-Tech-Innovations-DaronM/RST-Game-Development/workflows/Deploy%20Pages/badge.svg)](https://github.com/ICD20-Digital-Tech-Innovations-DaronM/RST-Game-Development/actions)
 
-This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
+This site can be found at: [[https://<OWNER>.github.io/<REPOSITORY>](https://icd20-digital-tech-innovations-daronm.github.io/RST-Game-Development/)]([https://<OWNER>.github.io/<REPOSITORY>](https://icd20-digital-tech-innovations-daronm.github.io/RST-Game-Development/))
 
 ---
 
