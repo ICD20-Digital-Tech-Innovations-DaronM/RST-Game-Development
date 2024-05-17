@@ -47,13 +47,13 @@ class MenuScene extends Phaser.Scene {
   }
 
    clickButton() {
-    //his.scene.start('gameScene')
-     this.introVideo = this.add.video(1920 / 2, 1080 / 2, 'introVideo').setScale(1.15)
-     this.introVideo.play()
+    this.scene.switch('gameScene')
+     // this.introVideo = this.add.video(1920 / 2, 1080 / 2, 'introVideo').setScale(1.15)
+     // this.introVideo.play()
 
-     this.introVideo.on('complete', function () {
-       this.scene.start('gameScene')
-     }, this)
+     // this.introVideo.on('complete', function () {
+     //   this.scene.start('gameScene')
+     // }, this)
   }
 }
 
