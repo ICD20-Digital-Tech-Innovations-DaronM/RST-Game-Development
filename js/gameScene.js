@@ -94,8 +94,8 @@ class GameScene extends Phaser.Scene {
     this.frieza = this.physics.add.sprite(100, 1080 / 2, 'f').setScale(1)
     this.frieza.setPushable(false)
 
-    this.friezaHP = 1000
-    this.friezaHpText = this.add.text(300,150, "Frieza HP : 1000", {
+    this.friezaHP = 500
+    this.friezaHpText = this.add.text(300,150, "Frieza HP : 500", {
       fontSize: "100px"
     })
 
